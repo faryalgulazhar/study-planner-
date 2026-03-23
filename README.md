@@ -18,8 +18,8 @@ Students managing coursework and deadlines.
 - Deployed on Vercel
 
 ## User Stories 
-As a student, I want to filter my tasks by subject, so that I can visualise them easily.
-As a student, I want to have a calendar, so that I can track my due dates.
-As a student, I want to have the possibility to use dark mode, so that I can use the application during nighttime.
-As a student, I want to set priority levels, so that I know which tasks to work on first.
-As a student, I want to see a list of all my tasks, so that I have an overview of my workload.
+- As a student, I want to filter my tasks by subject, so that I can visualise them easily.
+- As a student, I want to have a calendar, so that I can track my due dates.
+- As a student, I want to have the possibility to use dark mode, so that I can use the application during nighttime.
+- As a student, I want to set priority levels, so that I know which tasks to work on first.
+- As a student, I want to see a list of all my tasks, so that I have an overview of my workload.
