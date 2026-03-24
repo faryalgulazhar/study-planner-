@@ -27,4 +27,5 @@ Students managing coursework and deadlines.
 - As a student, I want to set priority levels, so that I know which tasks to work on first.
 - As a student, I want to see a list of all my tasks, so that I have an overview of my workload.
 - As a student, I want to be able to see my achievements, so that I can motivate myself.
-- As a student, I want to be able to translate the text from french to english, so that I can understand the page's content. 
+- As a student, I want to be able to translate the text from french to english, so that I can understand the page's content.
+
