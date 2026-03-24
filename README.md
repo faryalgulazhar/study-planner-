@@ -29,3 +29,9 @@ Students managing coursework and deadlines.
 - As a student, I want to be able to see my achievements, so that I can motivate myself.
 - As a student, I want to be able to translate the text from french to english, so that I can understand the page's content.
 
+git init
+git remote add origin https://github.com/faryalgulazhar/study-planner.git
+git add .
+git commit -m "Initial Next.js setup"
+git branch -M main
+git push -u origin main
