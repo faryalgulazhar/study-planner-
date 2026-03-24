@@ -1,4 +1,4 @@
-# Study-Planner
+# study-planner
 A task management app for students
 
 ## Target Users
